@@ -1,0 +1,14 @@
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\bin\Debug\netstandard2.0\Embedded_Files.deps.json
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\bin\Debug\netstandard2.0\Embedded_Files.dll
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\bin\Debug\netstandard2.0\ref\Embedded_Files.dll
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\bin\Debug\netstandard2.0\Embedded_Files.pdb
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.AssemblyInfoInputs.cache
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.AssemblyInfo.cs
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.csproj.CoreCompileInputs.cache
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.dll
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\ref\Embedded_Files.dll
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.pdb
+C:\Users\wouterk\Google Drive\_Code\Embedded_Files\Embedded_Files\obj\Debug\netstandard2.0\Embedded_Files.csprojAssemblyReference.cache
